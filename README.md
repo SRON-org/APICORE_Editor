@@ -18,6 +18,9 @@ The graphical configuration file editor for APICORE
 
 APICORE_Editor 一个使用PyQt5开发的图形化 APICORE 配置文件编辑器，用于创建和编辑符合 APICORE 规范的API配置文件。
 
+<img width="521.5" height="350.5" alt="主界面" src="https://github.com/user-attachments/assets/a3aa847a-6902-49f9-b2b3-0b4e58d74e8e" /><img width="487.5" height="348.5" alt="转换器" src="https://github.com/user-attachments/assets/a52e0f66-b76e-44c1-b829-62fee1ed9b76" />
+
+
 ## 功能特性
 
 - **基本配置编辑**：编辑API接口名称、简介、图标URL或base64、链接、请求方法等基本信息
