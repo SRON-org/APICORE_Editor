@@ -1,0 +1,162 @@
+{
+  "friendly_name": "Example_API",
+  "intro": "An Example API config.",
+  "icon": "data:image/svg+xml;base64,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",
+  "link": "about:blank",
+  "func": "GET",
+  "APICORE_version": "1.0",
+  "parameters": [
+    {
+      "enable": true,
+      "name": "string",
+      "type": "string",
+      "required": true,
+      "value": "不当哥哥了！",
+      "friendly_value": [],
+      "friendly_name": "字符串",
+      "min_value": null,
+      "max_value": null,
+      "split_str": null
+    },
+    {
+      "enable": true,
+      "name": "int",
+      "type": "integer",
+      "required": true,
+      "value": 64,
+      "friendly_value": [],
+      "friendly_name": "数字",
+      "min_value": 0,
+      "max_value": 100,
+      "split_str": null
+    },
+    {
+      "enable": true,
+      "name": "list",
+      "type": "list",
+      "required": true,
+      "value": [
+        "灌伤害",
+        "骗骗花",
+        "拉开距离回回拉"
+      ],
+      "friendly_value": [],
+      "friendly_name": "列表",
+      "min_value": null,
+      "max_value": null,
+      "split_str": "+"
+    },
+    {
+      "enable": true,
+      "name": "enum",
+      "type": "enum",
+      "required": false,
+      "value": [
+        "Mahiro",
+        "Mihari",
+        "Momiji"
+      ],
+      "friendly_value": [
+        "自宅警备员",
+        "究极妹控",
+        "平板姬"
+      ],
+      "friendly_name": "选择项",
+      "min_value": null,
+      "max_value": null,
+      "split_str": null
+    },
+    {
+      "enable": true,
+      "name": "boolean",
+      "type": "boolean",
+      "required": true,
+      "value": false,
+      "friendly_value": [],
+      "friendly_name": "布尔值",
+      "min_value": null,
+      "max_value": null,
+      "split_str": null
+    },
+    {
+      "enable": false,
+      "name": "",
+      "type": "string",
+      "required": true,
+      "value": "none",
+      "friendly_value": [],
+      "friendly_name": "hide_value",
+      "min_value": null,
+      "max_value": null,
+      "split_str": null
+    }
+  ],
+  "response": {
+    "image": {
+      "content_type": "URL",
+      "path": "data.image.raw[*]",
+      "is_list": true,
+      "is_base64": false
+    },
+    "others": [
+      {
+        "friendly_name": "图片信息",
+        "data": [
+          {
+            "friendly_name": "图片日期",
+            "path": "data.image.data",
+            "type": "list",
+            "one-to-one-mapping": true
+          },
+          {
+            "friendly_name": "图片长度",
+            "path": "data.image.h",
+            "type": "list",
+            "one-to-one-mapping": true
+          },
+          {
+            "friendly_name": "图片宽度",
+            "path": "data.image.w",
+            "type": "list",
+            "one-to-one-mapping": true
+          },
+          {
+            "friendly_name": "图片描述",
+            "path": "data.image.intro",
+            "type": "string",
+            "one-to-one-mapping": false
+          },
+          {
+            "friendly_name": "图片集标签",
+            "path": "data.image.tags",
+            "type": "list",
+            "one-to-one-mapping": false
+          }
+        ]
+      },
+      {
+        "friendly_name": "作者",
+        "data": [
+          {
+            "friendly_name": "姓名",
+            "path": "data.author.name",
+            "type": "string",
+            "one-to-one-mapping": false
+          },
+          {
+            "friendly_name": "性别",
+            "path": "data.author.sex",
+            "type": "string",
+            "one-to-one-mapping": false
+          },
+          {
+            "friendly_name": "年龄",
+            "path": "data.author.age",
+            "type": "string",
+            "one-to-one-mapping": false
+          }
+        ]
+      }
+    ]
+  }
+}
